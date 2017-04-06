@@ -1,0 +1,2 @@
+# awssqs
+AWS SQS examples
